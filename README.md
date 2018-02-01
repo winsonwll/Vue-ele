@@ -1,6 +1,19 @@
-# sell
+# vue-ele
 
-> sell app
+> 使用Vuejs全家桶+ES6+Webpack等前端最新最热的技术
+
+> 采用模块化、组件化、工程化的模式开发
+
+
+## 项目技术架构
+vue-cli
+vue
+vue-resource
+vue-router
+vue-infinite-scroll
+stylus
+webpack
+
 
 ## Build Setup
 
