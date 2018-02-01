@@ -6,13 +6,7 @@
 
 
 ## 项目技术架构
-vue-cli
-vue
-vue-resource
-vue-router
-vue-infinite-scroll
-stylus
-webpack
+vue-cli、vue、vue-resource、vue-router、vue-infinite-scroll、stylus、webpack
 
 
 ## Build Setup
